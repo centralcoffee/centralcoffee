@@ -1,0 +1,111 @@
+                    * {
+                        margin: 0%;
+                        padding: 0%;
+                    }
+                    
+                    .nav,
+                    .footer {
+                        background-color: #36384c;
+                        height: 80px;
+                    }
+                    
+                    .nav ul li {
+                        display: inline;
+                        padding: 30px;
+                        color: white;
+                        font-size: 18px;
+                    }
+                    
+                    .nav img {
+                        float: left;
+                    }
+                    
+                    .nav ul {
+                        float: right;
+                        padding-top: 30px;
+                    }
+                    
+                    .phan1 {
+                        background-image: url(../img/bg7.jpg);
+                        background-size: cover;
+                        background-position: center;
+                        height: 600px;
+                        text-align: center;
+                    }
+                    
+                    .phan1 h1 {
+                        font-size: 80px;
+                        padding-top: 200px;
+                    }
+                    
+                    .phan2 img {
+                        width: 20%;
+                        height: 200px;
+                    }
+                    
+                    .luoianh {
+                        text-align: center;
+                    }
+                    
+                    .phan2 {
+                        padding: 80px;
+                        background-color: #e9dccd;
+                    }
+                    
+                    .canle2ben {
+                        padding: 0 20%;
+                    }
+                    
+                    .phan3 .bentrai {
+                        float: left;
+                        width: 50%;
+                        text-align: center;
+                        position: relative;
+                    }
+                    
+                    .phan3 .benphai {
+                        text-align: center;
+                        position: relative;
+                    }
+                    
+                    .phan3 .bentrai img {
+                        height: 250px;
+                    }
+                    
+                    .phan3 .benphai img {
+                        height: 250px;
+                    }
+                    
+                    .phan3 {
+                        background-color: #36384c;
+                        color: white;
+                        height: 600px;
+                        position: relative;
+                    }
+                    
+                    .phan3 p {
+                        padding: 10px 0px;
+                    }
+                    
+                    .phan4 {
+                        background-color: #e9dccd;
+                        color: #36384c;
+                        height: 400px;
+                    }
+                    
+                    .phan4 .bentrai1 {
+                        float: left;
+                    }
+                    
+                    .phan4 img {
+                        width: 400px;
+                    }
+                    
+                    .phan4 .benphai1 {
+                        float: right;
+                        margin-right: 300px;
+                    }
+                    
+                    .footer {
+                        text-align: center;
+                    }
